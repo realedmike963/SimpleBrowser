@@ -4,7 +4,8 @@
 User-Agent設定、ダークモード、アクセスログ（日別保存）に対応しています。
 Chromeでは動作が重い、生成AIのWebUIを開く際に余計なリソースを使いたくないという場面に軽量なブラウザを探したが見当たらないので、QtWebEngineを使い生成しています。
 
-![[https://github.com/realedmike963/SimpleBrowser/blob/main/main_top.png]]
+![toppage](https://github.com/realedmike963/SimpleBrowser/blob/main/main_top.png "toppage")
+
 
 ---
 
