@@ -24,7 +24,8 @@ Chromeでは動作が重い、生成AIのWebUIを開く際に余計なリソー�
 ```
 /
 ├── main_fixed_ua_gpu_disabled.py  ← 実行用スクリプト
-└
+└── setting.ini                    ← 設定ファイル
+```
 
 ---
 
